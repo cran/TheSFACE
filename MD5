@@ -1,0 +1,12 @@
+9ef32ab8acddfe4a098dbd025fe72784 *DESCRIPTION
+96ecc32d17d229b3806cf5c47134c640 *NAMESPACE
+5794a2bb51479dc51a2c11586c12500f *R/globalVariables.R
+afcb71e7b8eeb96aedb9f318aef8c722 *R/max_lambda.R
+926cfeb1bd3dd9ba7471666b1b200c43 *R/plot.sface.R
+b6630b218a60118c7724efc556e5dcfe *R/print.sface.R
+16bfcba06aa3633ee98225d79f5cb545 *R/sface.R
+74e847a95f08715ed7db38e528630d1b *README.md
+4cb30e4dff34461ba5faa6288f714337 *man/max_lambda.Rd
+fe445f6d931e8b5f0ad0ae0c87db5e87 *man/plot.sface.Rd
+e7b875bdae7781886e5ef024d4811029 *man/print.sface.Rd
+89737d5b5443965c9bb014831288145a *man/sface.Rd
